@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{759007A7-F9E1-49B9-82EE-8EDF35CF64B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinFormsHtmlEditor</RootNamespace>
+    <AssemblyName>WinFormsHtmlEditor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app-icon-big.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ScintillaNet">
+      <HintPath>..\..\Scintilla.NET Binaries\ScintillaNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CellPropertiesDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CellPropertiesDialog.Designer.cs">
+      <DependentUpon>CellPropertiesDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertFormDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertFormDialog.Designer.cs">
+      <DependentUpon>InsertFormDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertHeadingDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertHeadingDialog.Designer.cs">
+      <DependentUpon>InsertHeadingDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertHyperlinkDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertHyperlinkDialog.Designer.cs">
+      <DependentUpon>InsertHyperlinkDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertImageDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertImageDialog.Designer.cs">
+      <DependentUpon>InsertImageDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertInputFieldDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertInputFieldDialog.Designer.cs">
+      <DependentUpon>InsertInputFieldDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertListDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertListDialog.Designer.cs">
+      <DependentUpon>InsertListDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertTableDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertTableDialog.Designer.cs">
+      <DependentUpon>InsertTableDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectBackgroundImageDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectBackgroundImageDialog.Designer.cs">
+      <DependentUpon>SelectBackgroundImageDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTitleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTitleDialog.Designer.cs">
+      <DependentUpon>SelectTitleDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TablePropertiesDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TablePropertiesDialog.Designer.cs">
+      <DependentUpon>TablePropertiesDialog.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CellPropertiesDialog.resx">
+      <DependentUpon>CellPropertiesDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertFormDialog.resx">
+      <DependentUpon>InsertFormDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertHeadingDialog.resx">
+      <DependentUpon>InsertHeadingDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertHyperlinkDialog.resx">
+      <DependentUpon>InsertHyperlinkDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertImageDialog.resx">
+      <DependentUpon>InsertImageDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertInputFieldDialog.resx">
+      <DependentUpon>InsertInputFieldDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertListDialog.resx">
+      <DependentUpon>InsertListDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertTableDialog.resx">
+      <DependentUpon>InsertTableDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectBackgroundImageDialog.resx">
+      <DependentUpon>SelectBackgroundImageDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTitleDialog.resx">
+      <DependentUpon>SelectTitleDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TablePropertiesDialog.resx">
+      <DependentUpon>TablePropertiesDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MSHTML">
+      <Guid>{3050F1C5-98B5-11CF-BB82-00AA00BDCE0B}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HTMLBuilder\HTMLBuilder.csproj">
+      <Project>{8E4D3F4B-83A5-48FC-B652-6836F302033A}</Project>
+      <Name>HTMLBuilder</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\hyperlink-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\redo-icon.png" />
+    <None Include="Icons\paste-icon.png" />
+    <None Include="Icons\cut-icon.png" />
+    <None Include="Icons\copy-icon.png" />
+    <None Include="Icons\undo-icon.png" />
+    <None Include="Icons\save-icon.png" />
+    <None Include="Icons\file-open-icon.png" />
+    <None Include="Icons\file-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\image-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\table-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\font-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\font-color-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app-icon-big.ico" />
+    <None Include="Icons\form-icon.png" />
+    <None Include="Icons\to-do-list-cheked-1-icon.png" />
+    <None Include="Icons\list-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

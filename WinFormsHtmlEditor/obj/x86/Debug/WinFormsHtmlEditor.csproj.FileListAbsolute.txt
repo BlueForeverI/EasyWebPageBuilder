@@ -1,0 +1,36 @@
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\WinFormsHtmlEditor.exe
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\WinFormsHtmlEditor.pdb
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.Form1.resources
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.Properties.Resources.resources
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.exe
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.pdb
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.csproj.ResolveComReference.cache
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\WinFormsHtmlEditor.exe.config
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\ScintillaNet.dll
+c:\documents and settings\george\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\ScintillaNet.pdb
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\HTMLBuilder.dll
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\HTMLBuilder.pdb
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\WinFormsHtmlEditor.exe.config
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.csproj.ResolveComReference.cache
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.exe
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.pdb
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\WinFormsHtmlEditor.exe
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\WinFormsHtmlEditor.pdb
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\HTMLBuilder.dll
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\ScintillaNet.dll
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\bin\Debug\HTMLBuilder.pdb
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.CellPropertiesDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.ApplicationWindow.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.InsertHeadingDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.InsertHyperlinkDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.InsertImageDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.InsertTableDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.Properties.Resources.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.SelectBackgroundImageDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\WinFormsHtmlEditor.SelectTitleDialog.resources
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp\WinFormsHtmlEditor\WinFormsHtmlEditor\obj\x86\Debug\GenerateResource.write.1.tlog

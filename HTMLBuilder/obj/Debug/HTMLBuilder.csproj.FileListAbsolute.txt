@@ -1,0 +1,12 @@
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\HTMLBuilder\bin\Debug\HTMLBuilder.dll
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\HTMLBuilder\bin\Debug\HTMLBuilder.pdb
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\HTMLBuilder.csproj.ResolveComReference.cache
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\HTMLBuilder.dll
+C:\Documents and Settings\George\my documents\visual studio 2010\Projects\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\HTMLBuilder.pdb
+D:\CSharp\WinFormsHtmlEditor\HTMLBuilder\bin\Debug\HTMLBuilder.dll
+D:\CSharp\WinFormsHtmlEditor\HTMLBuilder\bin\Debug\HTMLBuilder.pdb
+D:\CSharp\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharp\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\HTMLBuilder.csproj.ResolveComReference.cache
+D:\CSharp\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\HTMLBuilder.dll
+D:\CSharp\WinFormsHtmlEditor\HTMLBuilder\obj\Debug\HTMLBuilder.pdb
